@@ -3,7 +3,7 @@ description: "My Website"
 baseurl: "" # Adjust if hosting in a subdirectory
 url: "https://liaoqijia.github.io" # Replace with your site's URL
 
-destination: "_site"
+destination: "_doc"
 
 navbar:
   right:
