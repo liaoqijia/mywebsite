@@ -14,9 +14,4 @@ navbar:
 
 theme: jekyll-theme-primer
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-commonmark-ghpages
 
