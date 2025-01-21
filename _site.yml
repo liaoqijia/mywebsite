@@ -1,12 +1,22 @@
-name: "mywebsite"
 title: "My Website"
-description: |
-  My Website
-output_dir: "_site"
+description: "My Website"
+baseurl: "" # Adjust if hosting in a subdirectory
+url: "https://your-website.github.io" # Replace with your site's URL
+
+destination: "_site"
+
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: "index.html"
     - text: "About"
-      href: about.html
-output: distill::distill_article
+      href: "about.html"
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-commonmark-ghpages
+
