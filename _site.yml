@@ -12,6 +12,5 @@ navbar:
     - text: "About"
       href: "about.html"
 
-theme: jekyll-theme-primer
 
 

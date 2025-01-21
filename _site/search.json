@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n      \n  \n\n\n\n\n\n\nAbout this site\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2025-01-21T12:16:04+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n      \n  \n\n\n\n\n\n\nMy Website\n\n\n\n\n\nmy website\n\n\nmy education\n\n\nmy work experience\n\n\n\n\n\n\n\n",
+      "last_modified": "2025-01-21T12:22:25+00:00"
+    }
+  ],
+  "collections": []
+}
